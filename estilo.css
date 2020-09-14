@@ -112,6 +112,10 @@ body{
     width: 100%;
 }
 
+.img3 img{
+    
+}
+
 @media screen and (min-width: 768px){
     .seccion1{
        display: grid;
